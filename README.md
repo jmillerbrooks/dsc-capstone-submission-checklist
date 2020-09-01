@@ -11,7 +11,7 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 - [ ] Clearly explains the real-world problem your project attempts to solve in...
   - [x] Readme
   - [ ] Notebook
-  - [ ] Slides
+  - [x] Slides
 
 ## Data Understanding
 
