@@ -18,7 +18,7 @@ Fork this checklist, and complete it prior to submitting your Capstone for revie
 - [ ] Describes the data source in...
   - [ ] Readme
   - [ ] Notebook
-  - [ ] Slides
+  - [X] Slides
 - [ ] Notebook describes properties of all variables used in project
 
 ## Data Preparation
